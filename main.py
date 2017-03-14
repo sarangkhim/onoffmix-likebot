@@ -1,5 +1,5 @@
 """
-selenium, geckodriver
+selenium, geckodriver, phantomjs
 pip install selenium
 """
 from selenium import webdriver
